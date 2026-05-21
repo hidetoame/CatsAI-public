@@ -73,6 +73,11 @@ cd ..
 
 ビルドには macOS、Swift、Node.js、署名環境が必要です。配布用に公証する場合は Apple Developer ID が必要です。
 
+## Privacy Policy
+
+- [Privacy Policy](PRIVACY.md)
+- [Terms / Disclaimer](TERMS.md)
+
 ## 免責
 
 本アプリは個人開発の実験アプリです。不具合やセキュリティ上の問題が含まれる可能性があります。本アプリの使用、PC操作、外部サービス連携によって発生した不都合や損害について、開発者は責任を負いません。利用者ご自身の責任で使用してください。
