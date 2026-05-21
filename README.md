@@ -43,7 +43,7 @@ CatsAI は、OpenAI GPT Realtime 2 を使い、音声でMacを操作できる実
 
 ## 初期設定
 
-CatsAI を使うには OpenAI APIキーが必要です。ChatGPTの有料プランとは別に、OpenAI PlatformのAPI利用設定が必要です。
+CatsAI を使うには OpenAI APIキーが必要です。ChatGPTの有料プランとは別に、OpenAI APIの課金設定が必要です。トークン使用量は各自の負担となりますので、OpenAI Platformで適時確認してください。
 
 - OpenAI Platform: https://platform.openai.com/
 - Billing: https://platform.openai.com/settings/organization/billing/overview
