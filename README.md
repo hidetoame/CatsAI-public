@@ -73,6 +73,13 @@ cd ..
 
 ビルドには macOS、Swift、Node.js、署名環境が必要です。配布用に公証する場合は Apple Developer ID が必要です。
 
+
+## ソースコードについて
+
+ソースコードは、反響があれば公開します。興味がある方はご連絡ください。
+
+GitHubの仕様でReleaseには自動的に `Source code (zip)` / `Source code (tar.gz)` が表示されますが、これは公開リポジトリ内のREADME等をまとめたもので、CatsAI本体のソースコードではありません。
+
 ## Privacy Policy
 
 - [Privacy Policy](PRIVACY.md)
