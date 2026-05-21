@@ -5,12 +5,6 @@ Macを、声で動かす。
 
 CatsAI は、OpenAI GPT Realtime 2 を使い、音声でMacを操作できる実験アプリです。デスクトップに常駐するキャラクターに話しかけるだけで、フォルダを開いたり、メモを作ったり、調べ物をさせたりできます。
 
-<p align="center">
-  <img src="assets/avatar-ume.png" width="220" alt="CatsAI avatar Ume">
-  <img src="assets/avatar-yomogi.png" width="220" alt="CatsAI avatar Yomogi">
-  <img src="assets/avatar-azuki.png" width="220" alt="CatsAI avatar Azuki">
-</p>
-
 ## ダウンロード
 
 公証済みアプリは GitHub Releases からダウンロードしてください。
