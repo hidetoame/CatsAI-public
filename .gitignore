@@ -1,0 +1,13 @@
+.DS_Store
+*.zip
+*.app
+HomeApp/CatsAI.app/
+HomeApp/HomeApp.app/
+HomeApp/CatsAI.app.zip
+HomeApp/LocalConfig/*
+!HomeApp/LocalConfig/.gitignore
+HomeApp/Agent/node_modules/
+dist/
+*.log
+.env
+*.xcuserstate
