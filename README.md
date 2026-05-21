@@ -24,7 +24,7 @@ CatsAI は、OpenAI GPT Realtime 2 を使い、音声でMacを操作できる実
 - タイマー / アラーム
 - Googleカレンダー確認 / 予定追加
 - メールチェック（IMAP / POP3）
-- スクリーンショット拡張（撮影後にその場で注釈）
+- おまけ: スクリーンショット拡張（撮影後にその場で注釈、ON/OFF可）
 - キャラクターは画像1枚から生成可能
 
 ## 使い方
@@ -49,6 +49,8 @@ CatsAI を使うには OpenAI APIキーが必要です。ChatGPTの有料プラ�
 - Billing: https://platform.openai.com/settings/organization/billing/overview
 
 Googleカレンダーやメールチェックは、設定画面でONにした場合だけ使います。
+
+Googleカレンダー連携では、Google認証時に「このアプリは Google で確認されていません」といった警告が表示される場合があります。信頼できる場合だけ、詳細表示から続行して許可してください。
 
 ## 権限について
 
